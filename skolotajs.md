@@ -1,3 +1,0 @@
-Sveiciens,
-
-Es te mazliet paārdos...
