@@ -1,1 +1,4 @@
 # Paregis
+
+
+apstiprini
