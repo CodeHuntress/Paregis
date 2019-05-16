@@ -1,6 +1,6 @@
 # Pareģis
 Lapa, kas piedāvā Tev uzzināt dažādas lietas aizraujošos veidos. Šajā lapā būs iespējams uzzināt savu veiksmi, veikt testus, kuros atbildot uz dažādiem jautājumiem uzzināsiet ko jaunu par sevi.
-### Saturs:
+## Saturs:
 1.Pareģa sadaļas
 2.Instalēšana 
 3.Lietošana 
@@ -19,3 +19,10 @@ Atzīmējot savu horoskopu tiek piedāvāts dienas horoskops un iedegas viena no
 #### 9 lapa - laika prognoze
 Tiek dotas 3 pogas un nospiežot tās tiek, piemēram, ieslēgtas diodes vai ventilātors, lai attēlotu laikapstākļus un prognozētu/pareģotu gaidāmos vai esošos laikapstākļus. 
 
+## Instalēšana
+Pareģim nav nepieciešamas daudz, dažādas detaļas. Tā veidošanai tika izmantots Raspberry Pi3 un Flask.
+Tā instalēšanas norādes var atrast šeit: https://projects.raspberrypi.org/en/projects/python-web-server-with-flask/2
+Nepieciešamas ir arī visas izveidotās mājas lapas ar to kodiem: (no github links)
+
+## Lietošana
+(Ierakstīt kā atver mājas lapu, jo es nezinu), tālāk tikai nepieciešams atbildēt uz lapās prasīto un ar prieku izmantot Pareģi!
