@@ -1,7 +1,10 @@
 # Pareģis
-## Lapa, kas piedāvā Tev uzzināt dažādas lietas aizraujošos veidos. Šajā lapā būs iespējams uzzināt savu veiksmi, veikt testus, kuros atbildot uz dažādiem jautājumiem uzzināsiet ko jaunu par sevi.
+Lapa, kas piedāvā Tev uzzināt dažādas lietas aizraujošos veidos. Šajā lapā būs iespējams uzzināt savu veiksmi, veikt testus, kuros atbildot uz dažādiem jautājumiem uzzināsiet ko jaunu par sevi.
 ### Saturs:
-#### 1 lapa - titullapa 
+[Pareģa sadaļas]
+Instalēšana 
+Lietošana 
+(#### 1 lapa - titullapa)
 Atverot lapu tiek piedāvāts sākt šo testu/spēli "Pareģis", tomēr jau pašā sākumā ar humoru tiek sākta spēle. Trīs reizes spiežot pogu "Sākam!" parāda paziņojumu, ka ir nepieciešams inputs no klaviatūras, lai tiktu pie nākamajiem uzdevumiem.
 
 #### 2-4 lapa - veiksme
