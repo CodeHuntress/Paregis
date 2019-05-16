@@ -4,6 +4,8 @@ Lapa, kas piedāvā Tev uzzināt dažādas lietas aizraujošos veidos. Šajā la
 1.Pareģa sadaļas
 2.Instalēšana 
 3.Lietošana 
+ 
+Pareģa sadaļas
 #### 1 lapa - titullapa
 Atverot lapu tiek piedāvāts sākt šo testu/spēli "Pareģis", tomēr jau pašā sākumā ar humoru tiek sākta spēle. Trīs reizes spiežot pogu "Sākam!" parāda paziņojumu, ka ir nepieciešams inputs no klaviatūras, lai tiktu pie nākamajiem uzdevumiem.
 
