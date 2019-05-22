@@ -24,7 +24,7 @@ Tiek dotas 3 pogas un nospiežot tās tiek, piemēram, ieslēgtas diodes vai ven
 ## Instalēšana
 Pareģim nav nepieciešamas daudz, dažādas detaļas. Tā veidošanai tika izmantots Raspberry Pi3 un Flask.
 Tā instalēšanas norādes var atrast šeit: https://projects.raspberrypi.org/en/projects/python-web-server-with-flask/2
-Nepieciešamas ir arī visas izveidotās mājas lapas ar to kodiem: (no github links)
+Nepieciešamas ir arī visas mūsu izveidotās mājas lapas ar to kodiem kuras atradīsiet failā pogs.zip šīs lapas sākumā.
 
 ## Lietošana
 Vispirms ir jāieslēdz Rspberry Pi un jāpieslēdzas kādai no programmām uz kurām rediģēt un rakstīt Raspberry PI skriptu(Putty https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html, Mobaxterm https://mobaxterm.mobatek.net/). No "Pareģis" GitHub lapas vajag lejuplādēt failu "pogs" un iekopēt to jūsu izvēlētajā programmā.
