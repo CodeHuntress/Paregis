@@ -29,7 +29,8 @@ Nepieciešamas ir arī visas izveidotās mājas lapas ar to kodiem: (no github l
 ## Lietošana
 Vispirms ir jāieslēdz Rspberry Pi un jāpieslēdzas kādai no programmām uz kurām rediģēt un rakstīt Raspberry PI skriptu(Putty https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html, Mobaxterm https://mobaxterm.mobatek.net/). No "Pareģis" GitHub lapas vajag lejuplādēt failu "pogs" un iekopēt to jūsu izvēlētajā programmā.
 Lai palaistu lapu, terminālajā logā jāieraksta šāda fuunkcija:
-#### sudo nano pogs.py
+#### sudo python pogs.py
+
 Interneta serverī jāieraksta Raspberry PI IP adrese un ports uz kura darbojas lapa9(Katram ietotājam atšķirsies).
 #### Piemēram: 196.184.43.269:80
 Tālāk tikai nepieciešams atbildēt uz lapās prasīto un ar prieku izmantot Pareģi!
