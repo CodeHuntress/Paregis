@@ -1,0 +1,68 @@
+
+
+<!--ASTOTA LAPA, LAPA, KURAA TIEK IEVADIITS HOROSKOOPS UN TIEK "PAREGOTS" -->
+ <!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Šodienas horoskops</title>
+
+<center><h2>Šodienas horoskops</h2></center>
+<link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" />
+
+</head>
+<body>
+
+
+ <br />
+ <br />
+ <br />
+<center>
+
+<!--_______________________________________ forma, kur tiek ievadits horoskops_____________- -->
+
+  <form action="{{ url_for('astotais') }}" method="post">
+    <input type="text" name="expression" />
+    <input  type="submit" value="Ievadit" />
+  </form>
+ <br/>
+ 
+ <!--_______________________________________ saraksta ar, kuram kas pieder_____________- -->
+ 
+ <h4>Ievadi <b>ciparu</b> atbilstoši savam horoskopam! </h4>
+<ol class="rounded-list">
+ <li><a>Auns</a></li>
+ <li><a>Vērsis</a></li>
+
+ <li><a>Dvīņi</a></li>
+
+ <li><a>Vēzis</a></li>
+
+ <li><a>Lauva</a></li>
+
+ <li><a>Jaunava</a></li>
+ 
+ <li><a>Svari</a></li>
+
+ <li><a>Skorpions</a></li>
+
+ <li><a>Strēlnieks</a></li>
+
+ <li><a>Mežāzis</a></li>
+
+ <li><a>Ūdensvīrs</a></li>
+
+ <li><a>Zivis</a></li>
+
+
+</center>
+
+ <center><a class="horoskops" href="http://192.168.43.169/">Atpakal</a></center> 
+ 
+ 
+ 
+ 
+
+</body>
+</html> 
